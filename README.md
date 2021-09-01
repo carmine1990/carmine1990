@@ -21,8 +21,8 @@
     - Deep Learning in Water Utilities
 
 - 📫 How to reach me:
-  email: carmine.tranfa@gaia-spa.it
-  mobile: +39 337 16 10 335
+    - email: carmine.tranfa@gaia-spa.it
+    - mobile: +39 337 16 10 335
 
 <!---
 carmine1990/carmine1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
